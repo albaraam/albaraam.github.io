@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Albaraa Mishlawi
+tagline:          'Get To The Next Level'
+description:      'Mobile & Web Developer mostly talk about Android'
+url:              http://albaraa.me
+baseurl:          /
+
+author:
+  name:           'Albaraa Mishlawi'
+  url:            http://twitter.com/AlbaraaMishlawi
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           http://github.com/poole/hyde
