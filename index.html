@@ -1,37 +1,54 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Test
 ---
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<style>
+	h1 {
+	    color: #fff;
+	}
+	.profile-pic {
+	    width: 150px;
+	    margin: 0 auto;
+	    border-radius: 75px;
+	    border: 5px solid rgb(255, 255, 255);
+		padding: 6px;
+	}
+	.social-links, li {
+	    margin: 0;
+	    padding: 0;
+	}
+	.social-links li {
+	    list-style-type: none;
+	    display: inline-block;
+	}
+	.social-links li a {
+	    padding: 10px;
+	    color: #fff;
+	    font-size: 20px;
+	}
+</style>
+<div class="container">
+	<a href="#" onclick="openAboutPage();">
+    <img class="profile-pic" src="../public/images/me2.png" alt="Albaraa Mishlawi">
+    <span class="modal-bg"></span>
+</a>
+<h1>Hey, I'm Albaraa Mishlawi</h1>
+<p>Web &amp; Mobile Developer // Entrepreneur // Filmmaker</p>
+<ul class="social-links">
+    <li>
+        <a href="https://www.linkedin.com/in/albaraamishlawi" target="_blank"><i class="fa fa-linkedin"></i></a>
+    </li>
+    <li>
+        <a href="https://github.com/albaraamishlawi" target="_blank"><i class="fa fa-github"></i></a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/channel/UCk1vhbxtfkpd_UGJknqbZTw" target="_blank"><i class="fa fa-youtube"></i></a>
+    </li>
+    <li>
+        <a href="https://twitter.com/AlbaraaMishlawi" target="_blank"><i class="fa fa-twitter"></i></a>
+    </li>
+    <li>
+        <a href="https://plus.google.com/+AlbaraaMishlawi" target="_blank"><i class="fa fa-google-plus"></i></a>
+    </li>
+</ul>
 </div>
