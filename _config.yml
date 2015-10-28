@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Albaraa Mishlawi
 tagline:          'Get To The Next Level'
 description:      'Mobile & Web Developer mostly talk about Android'
-url:              http://albaraamishlawi.github.io/blog
+url:              http://albaraam.github.io/blog
 baseurl:          /blog/
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           http://github.com/albaraamishlawi/blog
+  repo:           http://github.com/albaraam/blog
