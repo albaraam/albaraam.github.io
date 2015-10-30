@@ -11,7 +11,7 @@ title:            Albaraa Mishlawi
 tagline:          'Get To The Next Level'
 description:      'Mobile & Web Developer mostly talk about Android'
 url:              http://albaraam.github.io/blog
-baseurl:          /blog
+baseurl:          
 
 author:
   name:           'Albaraa Mishlawi'
