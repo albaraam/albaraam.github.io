@@ -7,7 +7,9 @@ comments: true
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-  <div class="share-links"></div>
+  <div class="share-links">
+    Share it, if you like it!
+  </div>
   {% include disqus.html %}
 </div>
 
