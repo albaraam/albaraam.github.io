@@ -1,0 +1,24 @@
+<script>
+    var pattern = Trianglify({
+        width: window.innerWidth,
+        height: window.innerHeight
+    });
+    document.body.appendChild(pattern.canvas())
+    
+    function addTriangleTo(target) {
+        // var dimensions = target.getClientRects()[0];
+        var pattern = Trianglify({
+            width: window.innerWidth, // dimensions.width, 
+            height: window.innerHeight, // dimensions.height,
+            cell_size: 35,
+            variance: 75,
+            x_colors: 'PuBu'
+        });
+        $(target).css("background-image",'url(' + pattern.png() + ')');
+        // target.style['background-image'] = 'url(' + pattern.png() + ')';
+    }
+    $(document).ready(function(){
+        addTriangleTo( $('.home-content-wrapper') );
+        addTriangleTo( $('.sidebar') );
+    });
+</script>
