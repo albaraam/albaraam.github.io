@@ -8,11 +8,17 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} &middot; Full Stack Web &amp; Mobile Developer &middot; 
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  
+  {% if page.title == "Home" %}
+    <meta name="description" content="Hey, I'm Albaraa Mishlawi, a Full Stack Web & Mobile Developer from lebanon // Entrepreneur // Filmmaker">
+  {% else %}
+    <meta name="description" content="{{ page.title }} &middot; {{ site.title }}">
+  {% endif %}
   
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
