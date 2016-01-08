@@ -4,32 +4,20 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! Long story short, I'm Albaraa Mishlawi, a full stack web & mobile developer from ***Lebnaon***, while I'm not writing code I do short films.
 </p>
 
-{% for post in site.posts %}
-<h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-<p><small>{{ post.date | date: "%B %e, %Y" }}</small></p>
-{% endfor %}
+So, you're still interested to know more?, then continue reading!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My Passion in web development started since I was a little boy, my first website was online while I'm in Grade 9 (14 years old), it's still [online](http://teachmeweb.4t.com/) (and still like a ___*****___). I got my Bachelor Degree in Computer Science in 2012 (22 years ago) from the ___Lebanese University___.
 
-There are currently two themes built on Poole:
+Today, and for the last couple of years (~4), I have worked on many interesting projects, involved of corporate websites, web solutions, mobile applications for both android & IOS using Cordova (aka Phonegap) backed up with Rest API's. And I was responsible of every stage of development from frontend (___HTML5___, ___CSS3___, ___JQuery___, ___Vanilla Javascript___) to backend (___PHP___, ___Yii Framework___, ___Custom CMS___, ___Amazon Services___) to mobile apps (___Cordova___, ___Framework7___, ___Ionic___, ___Android - Java___)  even to planning & architecture (___Database Structure___, ___REST API Desgin___, ___Design Patterns___).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Also I involved in some startups like ___Arab Interns___ & ___GeoMI___ as a __CTO__, where I got my entrepreneurship spirit. It was awsome experience, that I'm still looking forward to work with startups.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Mm! I think you're still asking about film making! Okay, since I was kid (again), I loved Movies and I loved the idea to make my own, so I started learning about everything (on youtube & online courses) from directing, lighting, cinematography, sound design, editing, visual effects, ... I actually did some short films (mostly action films) with my cousins and school friends, but there are nothing on youtube. Oops I just remembered, there is one [check it out here](https://www.youtube.com/watch?v=YEaeX-RFWXs)
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [email me](mailto:albaraa_m@live.com) or [ask me on Twitter](https://twitter.com/albaraamishlawi).
 
 Thanks for reading!
