@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-<div style="text-align:justify;">
-
 <p class="message">
   Hey there! Long story short, I'm Albaraa Mishlawi, a full stack web & mobile developer from <strong>Lebnaon</strong>, while I'm not writing code I do short films.
 </p>
@@ -53,5 +51,3 @@ Thanks for reading!
         <a href="https://plus.google.com/+AlbaraaMishlawi" target="_blank"><i class="fa fa-google-plus"></i></a>
     </li>
 </ul>
-
-</div>
