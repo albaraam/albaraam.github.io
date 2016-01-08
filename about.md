@@ -3,10 +3,10 @@ layout: page
 title: About
 ---
 
-<div style="text:align;">
+<div style="text-align:justify;">
 
 <p class="message">
-  Hey there! Long story short, I'm Albaraa Mishlawi, a full stack web & mobile developer from ___Lebnaon___, while I'm not writing code I do short films.
+  Hey there! Long story short, I'm Albaraa Mishlawi, a full stack web & mobile developer from <strong>Lebnaon</strong>, while I'm not writing code I do short films.
 </p>
 
 So, you're still interested to know more?, then continue reading!
