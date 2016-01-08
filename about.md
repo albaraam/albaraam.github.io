@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! Long story short, I'm Albaraa Mishlawi, a full stack web & mobile developer from <strong>Lebnaon</strong>, while I'm not writing code I do short films.
+  Hey there! Long story short, I'm <strong>Albaraa Mishlawi</strong>, a <strong>full stack web &amp; mobile developer</strong> from <strong>Lebnaon</strong>, while I'm not writing code I do short films.
 </p>
 
 So, you're still interested to know more?, then continue reading!
