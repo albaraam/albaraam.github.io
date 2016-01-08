@@ -14,7 +14,7 @@ So, you're still interested to know more?, then continue reading!
 My Passion in web development started since I was a little boy, my first website was online while I'm in Grade 9 (14 years old), it's still [online](http://teachmeweb.4t.com/) (and still like a ___*****___).
 I got my Bachelor Degree in Computer Science in 2012 (22 years ago) from the ___Lebanese University___.
 
-Today, and for the last couple of years (~4), I have worked on many interesting projects, involved of corporate websites, web solutions, mobile applications for both android & IOS using Cordova (aka Phonegap) backed up with Rest API's. And I was responsible of every stage of development from frontend (___HTML5___, ___CSS3___, ___JQuery___, ___Vanilla Javascript___) to backend (___PHP___, ___Yii Framework___, ___Custom CMS___, ___Amazon Services___) to mobile apps (___Cordova___, ___Framework7___, ___Ionic___, ___Android - Java___)  even to planning & architecture (___Database Structure___, ___REST API Desgin___, ___Design Patterns___,...).
+Today, and for the last couple of years (~4), I have worked on many interesting projects, which includes of corporate websites, web solutions, mobile applications for both android & IOS using Cordova (aka Phonegap) backed up with Rest API's. And I was responsible of every stage of development from frontend (___HTML5___, ___CSS3___, ___JQuery___, ___Vanilla Javascript___) to backend (___PHP___, ___Yii Framework___, ___Custom CMS___, ___Amazon Services___) to mobile apps (___Cordova___, ___Framework7___, ___Ionic___, ___Android - Java___)  even to planning & architecture (___Database Structure___, ___REST API Desgin___, ___Design Patterns___,...).
 
 _____
 
