@@ -1,27 +1,26 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      rouge
-
-# Permalinks
-permalink:        pretty
+---
+title: Albaraa Mishlawi
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: redcarpet
+highlighter: rouge
+permalink: pretty
 relative_permalinks: true
-
-# Setup
-title:            Albaraa Mishlawi
-tagline:          'Get To The Next Level'
-description:      'Mobile & Web Developer #sharing_experience'
-url:              http://albaraa.me
-baseurl:          
-
+tagline: Get To The Next Level
+description: 'Mobile & Web Developer #sharing_experience'
+url: http://albaraa.me
+baseurl: 
 author:
-  name:           'Albaraa Mishlawi'
-  url:            http://twitter.com/AlbaraaMishlawi
-
-paginate:         5
-paginate_path: "blog/page:num"
-
-# Custom vars
-version:          2.1.0
-
+  name: Albaraa Mishlawi
+  url: http://twitter.com/AlbaraaMishlawi
+paginate: 5
+paginate_path: blog/page:num
+version: 2.1.0
 github:
-  repo:           http://github.com/albaraam/albaraam.github.io
+  repo: http://github.com/albaraam/albaraam.github.io
